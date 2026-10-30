@@ -183,11 +183,11 @@ This is treated as an ambitious intervention target, not a guaranteed prediction
 │   └── nsw_crash_data_clean.csv
 │
 ├── screenshots/
-│   ├── tab1.png
-│   ├── tab2.png
-│   ├── tab3.png
-│   ├── tab4.png
-│   └── tab5.png
+│   ├── overview.png
+│   ├── hotspots_and_school_zones.png
+│   ├── time_patterns.png
+│   ├── external_conditions.png
+│   └── decision_summary.png
 │
 └── tabs/
     ├── __init__.py
@@ -278,7 +278,7 @@ It includes:
 - seasonal crash pattern
 - crash location type summary
 
-![Overall Crash Overview](srceenshots/tab1.png)
+![Overall Crash Overview](../screenshots/overview.png)
 
 ---
 
@@ -299,7 +299,7 @@ It includes:
 
 This tab supports place-based intervention planning.
 
-![Hotspots and School Zones](srceenshots/tab2.png)
+![Hotspots and School Zones](../screenshots/hotspots_and_school_zones.png)
 
 ---
 
@@ -323,7 +323,7 @@ The broad peak travel windows used are:
 
 This helps test whether crash risk overlaps with busy Australian travel periods.
 
-![Day and Time Risk](srceenshots/tab3.png)
+![Day and Time Risk](../screenshots/time_patterns.png)
 
 ---
 
@@ -343,7 +343,7 @@ It includes analysis of:
 
 Important note: these charts show conditions recorded during crashes. They do not prove causation because the dataset does not include exposure data such as total traffic volume, weather duration, or road usage by condition.
 
-![External Conditions](srceenshots/tab4.png)
+![External Conditions](../screenshots/external_conditions.png)
 
 ---
 
@@ -374,7 +374,7 @@ This does not only mean reducing crashes. It also represents broader road-networ
 - fewer disruption points
 - more reliable routes for drivers, buses, pedestrians, and school-zone users
 
-![Decision Summary](srceenshots/tab5.png)
+![Decision Summary](../screenshots/decision_summary.png)
 
 ---
 
