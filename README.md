@@ -30,7 +30,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-The included CSVs support the local dashboard. Original source attribution: https://data.nsw.gov.au/data/dataset/2-nsw-crash-data. Scenario sliders illustrate assumptions and do not establish causal effects.
+The included CSVs support the local dashboard. Original source attribution: https://data.nsw.gov.au/data/dataset/2-nsw-crash-data. The current decision view uses a fixed 20% hypothetical reduction scenario. It illustrates an assumption and does not establish a causal effect.
 
 ## Source and credits
 
