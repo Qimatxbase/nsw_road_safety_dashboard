@@ -12,7 +12,7 @@ The technical documentation credits **Khanh Hoang Nguyen as Lead Developer**, re
 
 ## Recognition
 
-**Winner — The Persuasion Pitch Competition**, UTS 36104, Autumn 2026, selected from 27 entries. [View certificate](https://github.com/Qimatxbase/engineering_portfolio/blob/main/Certificates/Certificate_UTS_Persuasion_Pitch_Competition_2026.pdf).
+**Winner — The Persuasion Pitch Competition**, UTS 36104, Autumn 2026, selected from 27 entries. [View certificate](docs/certificates/Certificate_UTS_Persuasion_Pitch_Competition_2026.pdf).
 
 ## What is included
 
@@ -42,5 +42,3 @@ This portfolio snapshot preserves work from the following repositories. Existing
 
 - https://github.com/Qimatxbase/DVN
 - https://github.com/lLuckil/36104_DVN_AT3_G22
-
-[Portfolio index](https://github.com/Qimatxbase/engineering_portfolio)
