@@ -171,7 +171,7 @@ This is treated as an ambitious intervention target, not a guaranteed prediction
 # Repository Structure
 
 ```text
-36104_DVN_AT3_25670050/
+36104_DVN_AT3_[student-id-removed]/
 │
 ├── app.py
 ├── utils.py
@@ -205,7 +205,7 @@ This is treated as an ambitious intervention target, not a guaranteed prediction
 ## Step 1 — Open Project Folder
 
 ```bash
-cd 36104_DVN_AT3_25670050
+cd 36104_DVN_AT3_[student-id-removed]
 ```
 
 ## Step 2 — Create a Virtual Environment

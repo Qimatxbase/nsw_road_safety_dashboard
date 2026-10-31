@@ -2,13 +2,17 @@
 
 An interactive dashboard for NSW crash hotspots, time patterns, school-zone exposure and intervention planning.
 
-**Technologies:** Python · Streamlit · pandas · Plotly · PyDeck
+**Technologies:** Python · Streamlit · pandas · Plotly
 
 ## Academic context and contribution
 
 Created for **UTS 36104, Assessment Task 3, Group 22**. This is a team assessment project.
 
 The technical documentation credits **Khanh Hoang Nguyen as Lead Developer**, responsible for the core Streamlit application, workflow integration, interactive controls, hotspot and time-pattern analysis, and maps. The dashboard and accompanying analysis are presented with the team's original source credits.
+
+## Recognition
+
+**Winner — The Persuasion Pitch Competition**, UTS 36104, Autumn 2026, selected from 27 entries. [View certificate](https://github.com/Qimatxbase/engineering_portfolio/blob/main/Certificates/Certificate_UTS_Persuasion_Pitch_Competition_2026.pdf).
 
 ## What is included
 
